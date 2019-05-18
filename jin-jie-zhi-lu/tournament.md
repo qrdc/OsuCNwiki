@@ -30,12 +30,12 @@ OCL系列比赛以队长选秀制为基础。赛制:循环赛+淘汰赛，计分
 | S2 |  |  |
 | S3 |  |  |
 | S4 |  |  |
-| S5 |  |  |
+| S5 | [\[Nixo\]](https://osu.ppy.sh/u/1144105) | [davidqu2](https://osu.ppy.sh/u/6090175)，[MusHi](https://osu.ppy.sh/u/592350)，[Storia](https://osu.ppy.sh/u/4271875)，[\[-Agony-\]](https://osu.ppy.sh/u/2534639)，[Komeiji Koishi](https://osu.ppy.sh/u/2759457) |
 | S6 |  |  |
 | S7 |  |  |
-| S8 | [davidqu2](https://osu.ppy.sh/u/6090175) | MusHi，FujiwaraNoMokou，-Yuzuriha Inori ，Rem MajiTenshi , Mikako |
-| S9 | [\_Mayuri](https://osu.ppy.sh/u/1955058) | Ma yin，Ariazi，\[-BlackZ-\]，Rem MajiTenshi，tommy0519 \(外援:Chaoslitz\) |
-| S10 |  |  |
+| S8 | [davidqu2](https://osu.ppy.sh/u/6090175) | [MusHi](https://osu.ppy.sh/u/592350)，[FujiwaraNoMokou](https://osu.ppy.sh/u/685188)，[-Yuzuriha Inori](https://osu.ppy.sh/u/4961160) ，[Rem MajiTenshi](https://osu.ppy.sh/u/5084172) , [Mikako](https://osu.ppy.sh/u/2676427) |
+| S9 | [\_Mayuri](https://osu.ppy.sh/u/1955058) | [Ma yin](https://osu.ppy.sh/u/1706092)，[Ariazi](https://osu.ppy.sh/u/2840460)，[\[-BlackZ-\]](https://osu.ppy.sh/u/2043341)，[Rem MajiTenshi](https://osu.ppy.sh/u/5084172)，[tommy0519](https://osu.ppy.sh/u/2455360) \(外援:[Chaoslitz](https://osu.ppy.sh/u/3621552)\) |
+| S10 | [davidqu2](https://osu.ppy.sh/u/6090175) | [Start](https://osu.ppy.sh/u/2190156)，[ZunK](https://osu.ppy.sh/u/1070783)，[Play Offline](https://osu.ppy.sh/u/5791401)，[hard to freeze](https://osu.ppy.sh/u/448316) |
 |  |  |  |
 
 #### OCLC冠军队伍
